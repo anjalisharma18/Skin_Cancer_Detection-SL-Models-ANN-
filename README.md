@@ -23,4 +23,4 @@ Step 8: Testing model
 Step 9: ResNet50
 
 #Team
-Anjali Sharma , Aradhana Pratap , Priya Bhatt
+Anjali Sharma ,Aradhana Pratap & Priya Bhatt
