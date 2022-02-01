@@ -22,5 +22,6 @@ Step 6: Model Building **
 Step 8: Testing model
 Step 9: ResNet50
 
-#Team
+# Team
+
 Anjali Sharma ,Aradhana Pratap & Priya Bhatt
